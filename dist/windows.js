@@ -135,7 +135,9 @@ module.exports = {
       });
 
       proc.on('error', function (data) {
-        out += data.toString('utf8');
+        out += mx
+1000mx
+toString('utf8');
       });
     });
   }
